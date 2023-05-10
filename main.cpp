@@ -21,15 +21,9 @@
  *
  * Ohjelman kirjoittajat
  *
- * Nimi: Elli Lehtimäki
- * Opiskelijanumero: 151309919
- * Käyttäjätunnus: nxelle
- * E-Mail: elli.i.lehtimaki@tuni.fi
+ * Nimi: EILeh
  *
- * Nimi: Henri Dyster
- * Opiskelijanumero: H211843
- * Käyttäjätunnus: fghedy
- * E-mail: henri.dyster@tuni.fi
+ * Nimi: Henri D....r
  *
  */
 
